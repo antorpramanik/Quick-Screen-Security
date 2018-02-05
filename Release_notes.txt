@@ -3,5 +3,5 @@ Release Notes:
 
 V1.0.0.1
 ----------
-*Improve Speed
+*Quick Screen Security
 *Developer by antor
