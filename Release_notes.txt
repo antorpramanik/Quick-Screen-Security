@@ -3,5 +3,8 @@ Release Notes:
 
 V1.0.0.1
 ----------
-*Quick Screen Security
-*Developer by antor
+*New Auto Alarm stop feature
+*New classic wallpaper
+*Bug fix
+
+*Developer by antor-pramanik(shuvendu)
