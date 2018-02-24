@@ -3,8 +3,9 @@ Release Notes:
 
 V1.0.0.1
 ----------
-*New Auto Alarm stop feature
-*New classic wallpaper
+*New Quick Unlock feature
+*New Auto Alarm Stop feature
 *Bug fix
+*Improvement speed!
 
 *Developer by antor-pramanik(shuvendu)
