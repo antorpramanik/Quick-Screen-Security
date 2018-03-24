@@ -1,11 +1,12 @@
 Release Notes:
 -------------------
 
-V1.0.0.1
+V1.0.0.2
 ----------
-*New Quick Unlock feature
-*New Auto Alarm Stop feature
-*Bug fix
-*Improvement speed!
+*The starting fade problem now fixed.
+*Right click icon is now changed!
+*Feel smooth performance!
+*New Auto Alarm Stop and Quick unlock feature
+*Bug fixed and Improvement speed! 
 
 *Developer by antor-pramanik(shuvendu)
