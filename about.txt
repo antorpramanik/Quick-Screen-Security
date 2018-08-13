@@ -1,0 +1,15 @@
+Quick Screen Security is the most advanced lock-screen application 
+with webcam detection, alarm function, advance design, animated unlock for windows pc.
+
+Developer:
+----------
+Shuvendu Pramanik (antor)
+#antorpramanik
+©2018 all rights reserved.
+
+Contact:
+--------
+GitHub, Twitter, Linkdin (antorpramanik)
+@Email: antorpramanik@hotmail.com
+
+Thanks.
