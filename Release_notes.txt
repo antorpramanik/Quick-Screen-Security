@@ -1,6 +1,7 @@
 Release Notes:
 -------------------
 
+Quick Screen Security
 V1.0.0.2
 ----------
 *The starting fade problem now fixed.
@@ -8,5 +9,3 @@ V1.0.0.2
 *Feel smooth performance!
 *New Auto Alarm Stop and Quick unlock feature
 *Bug fixed and Improvement speed! 
-
-*Developer by antor-pramanik(shuvendu)
